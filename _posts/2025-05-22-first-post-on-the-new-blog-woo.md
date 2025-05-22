@@ -11,3 +11,5 @@ Right now a huge focus of my learning is going into 3D rendering, so I’ll be w
 There is no real goal to this blog except to have fun and hopefully learn something along the way.
 
 Stick around, you might just find out something new (or not, I make no promises).
+
+As a side note, if anyone told me configuring Jekyll was so bloody hard, I would've chosen something else. Ruby is truly awful.
