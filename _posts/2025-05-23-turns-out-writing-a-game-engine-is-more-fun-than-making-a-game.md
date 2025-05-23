@@ -4,6 +4,7 @@ title: "Turns Out Writing a Game Engine Is More Fun Than Making a Game"
 date: "2025-05-23 8:50:00 +1000"
 categories: blog
 tags: 3d-render game-engine
+image: /assets/images/2025-05-23-8-56-34.png
 ---
 
 {% include image_with_caption.html
