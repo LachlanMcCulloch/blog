@@ -39,6 +39,11 @@ that later), I’ve been delving (can I even use that word anymore without peopl
 thinking AI wrote this) into Rust, where I’ve been learning how to build a 3D
 renderer from scratch.
 
+A fantastic resource exists from Mattia Samiolo over at
+https://sotrh.github.io/learn-wgpu/. This is a wonderful resource to start out
+and take you from nothing to something. Specifically, a grid of rendered cubes
+with a Blinn Phong shaded model for simulating reflectivity.
+
 So yeah—that’s what I’ve been up to lately. Just plodding along and trying to
 deepen my knowledge of all concepts presented in here. This typically leads to
 being confronted with a topic (linear algebra required for projecting 3D space
