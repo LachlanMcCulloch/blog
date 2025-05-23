@@ -1,3 +1,10 @@
+{% assign desc = page.description | default: page.excerpt | default:
+site.description %}
+
+<meta
+  name="description"
+  content="{{ desc | strip_html | normalize_whitespace | escape }}"
+/>
 <meta
   property="og:image"
   content="{{ site.url }}{{ page.image | default: site.image }}"

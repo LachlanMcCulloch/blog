@@ -7,13 +7,13 @@ tags: 3d-render game-engine
 image: /assets/images/2025-05-23-8-56-34.png
 ---
 
+I’ve gone back and forth on building a video game as a hobby for years. I’ve tinkered with just about every commercial engine out there, hoping for a bolt of inspiration to strike and push me to build the next great indie hit.
+
 {% include image_with_caption.html
   src="/assets/images/2025-05-23-8-56-34.png"
   alt="Game engine render"
   caption="3D Rendering of textured cubes in WGPU."
 %}
-
-I’ve gone back and forth on building a video game as a hobby for years. I’ve tinkered with just about every commercial engine out there, hoping for a bolt of inspiration to strike and push me to build the next great indie hit.
 
 That spark hasn’t come—but I’ve learned a lot about what excites me, and what doesn’t. In theory, game design sounds thrilling: invent mechanics, test them with players, refine through feedback. But in practice, it doesn’t click for me—my interest fades fast.
 
