@@ -28,7 +28,7 @@ of a task is typically, “**<u>DON’T!</u>**” (CAPITALISED, **boldened** and
 <u>underlined</u>). It’s solid advice—but I’m not chasing an outcome. I just
 want to learn.
 
-And learn I have. Building an engine is a nonstop learning spree. There is so
+And learn I have. Building an engine is a nonstop learning spree. There are so
 many complicated processes to learn that I never run out of interesting threads
 to pull and follow. Of course this is time consuming but anything worth it is
 time consuming (or so they say).
@@ -53,6 +53,3 @@ efficient process—but it’s a process. Of some kind?
 
 Anyway, I’ve rambled enough. I’ll be back soon with another post—hopefully with
 some working examples (and maybe even a video or two).
-
-Side note: I also discovered how to write em dash on mac—exciting! `⌥` +
-`Shift` + `-`
