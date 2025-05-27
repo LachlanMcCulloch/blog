@@ -55,3 +55,26 @@
 .bs-callout-info h4 {
   color: #5bc0de;
 }
+
+.site-nav {
+  line-height: normal;
+}
+
+.svg-icon {
+  padding-right: 0;
+}
+
+.footer-col-1,
+.footer-col-2,
+.footer-col-3 {
+  width: -webkit-calc(50% - (30px / 2));
+  width: calc(50% - (30px / 2));
+}
+
+video {
+  width: 100%;
+  height: auto;
+  display: block;
+  max-width: 100%;
+  padding-bottom: 16px;
+}
