@@ -58,7 +58,7 @@ model." %}
 [learn-wgpu]: https://sotrh.github.io/learn-wgpu/
 [wikipedia-normal-map]: https://en.wikipedia.org/wiki/Normal_mapping
 
-## I have become Bull, Destroyer of Cows
+## I have become Bull, destroyer of cows
 
 We fire up the program, and what emerges is pure nightmare fuel: an unholy
 fusion of limbs and bovine flesh, a monstrous cow deity born of code and chaos.
