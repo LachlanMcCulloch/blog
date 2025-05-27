@@ -187,7 +187,7 @@ Without diving too deep into the math weeds, _Fig 1_ shows what this
 transformation looks like. Don’t stress if you don’t follow it, i’ll probably do
 a whole post on transformation matrices soon.
 
-{% include important.html content="matrix multiplication is not commutative — the order of operations does matter!" %}
+{% include important.html content="matrix multiplication is not commutative — the order of operations does matter." %}
 
 Applying this fix in the shader (sorry this post turned into a bit of a “draw
 the rest of the f\*\*\*ing owl” situation), we finally get something beautiful.
