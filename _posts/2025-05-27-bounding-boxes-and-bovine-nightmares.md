@@ -63,7 +63,7 @@ model." %}
 We fire up the program, and what emerges is pure nightmare fuel: an unholy
 fusion of limbs and bovine flesh, a monstrous cow deity born of code and chaos.
 
-{% include video.html src="/assets/videos/2025-05-27-bounding-boxes-and-bovine-nightmares/ungodly-bull.webm" %}
+{% include video_with_caption.html src="/assets/videos/2025-05-27-bounding-boxes-and-bovine-nightmares/ungodly-bull.webm" caption="🐂 (Bull loaded without scaling.) The result? Udder madness." %}
 
 Turns out the bull model is massive compared to the original cub. Like, not even
 in the same ballpark. Thus began my journey into understanding 🌈 model scaling
@@ -193,7 +193,7 @@ Applying this fix in the shader (sorry this post turned into a bit of a “draw
 the rest of the f\*\*\*ing owl” situation), we finally get something beautiful.
 A lovely pasture of grazing bulls.
 
-{% include video.html src="/assets/videos/2025-05-27-bounding-boxes-and-bovine-nightmares/cow-array.webm" %}
+{% include video_with_caption.html src="/assets/videos/2025-05-27-bounding-boxes-and-bovine-nightmares/cow-array.webm" caption="🐂🐂🐂 (Scaled and tamed.) The bulls are finally behaving." %}
 
 ## Wrapping up
 
