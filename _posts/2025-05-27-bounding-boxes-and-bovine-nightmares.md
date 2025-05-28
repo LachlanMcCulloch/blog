@@ -7,7 +7,7 @@ tags: 3d-render game-engine
 image: /assets/images/2025-05-27-bounding-boxes-and-bovine-nightmares/cover-photo.png
 ---
 
-Okay, so now i’m in the deep end of learning. The proverbial safety bumpers have
+Okay, so now I’m in the deep end of learning. The proverbial safety bumpers have
 been removed. I completed [Learn WGPU][learn-wgpu] and now I have to do
 something myself?!
 
@@ -51,7 +51,7 @@ Now we can expect a nice sheen on the models - with absolutely whacked lighting,
 since the normal map (the second dummy_texture used in the model::Material::new)
 is completely inappropriate here.
 
-{% include note.html content="For more info on normal mapping, i’d honestly
+{% include note.html content="For more info on normal mapping, I’d honestly
 recommend [Wikipedia][wikipedia-normal-map]. TL;DR: it’s method for faking bumps and crevices on a
 model." %}
 
@@ -184,7 +184,7 @@ With scale in place, everything renders correctly.
 {% include image_with_caption.html src="/assets/images/2025-05-27-bounding-boxes-and-bovine-nightmares/matrix-transformation.png" caption="Fig 1: <a href=\"https://blenderartists.org/t/what-do-the-values-in-matrices-represent/1276569/13\">Source</a>" %}
 
 Without diving too deep into the math weeds, _Fig 1_ shows what this
-transformation looks like. Don’t stress if you don’t follow it, i’ll probably do
+transformation looks like. Don’t stress if you don’t follow it, I’ll probably do
 a whole post on transformation matrices soon.
 
 {% include important.html content="matrix multiplication is not commutative — the order of operations does matter." %}
