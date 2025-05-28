@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "build": "bundle exec jekyll build",
     "dev": "bundle exec jekyll serve --config _config.yml,_config_dev.yml",
     "new": "./scripts/new-post.sh"
   },
